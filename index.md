@@ -20,14 +20,14 @@ I am a avid CTF Player and a cyber security enthusiast. I am currently a student
 ## Write Ups
 
 <!-- Link Box 1 -->
-<div class="link-box">
-    <a href="page1.html">
+<figure class="link-box">
+    <a href="page1.md">
         Write-up 1
-        <div class="image-container">
-            <img src="C:\Users\Mateusz Tyc\Documents\GitHub\noodlekid.github.io\Images\how-it-works.png" alt="Image Description">
-        </div>
+        <figure class="image-container">
+            <img src="noodlekid.github.io/Images/how-it-works.png" alt="Image Description">
+        </figure>
     </a>
-</div>
+</figure>
 <div class="link-box">
     <a href="page1.html">
         Link to Page 1
