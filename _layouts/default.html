@@ -1,5 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>{{ page.title }} | {{ site.title }}</title>
+</head>
+<body>
+    <ul>
+        <li><a href="{{ site.baseurl }}/page1.html">Page 1</a></li>
+        <li><a href="{{ site.baseurl }}/page2.html">Page 2</a></li>
+        <!-- Add more links for additional pages -->
+    </ul>
+    <div class="container">
+        {{ content }}
+    </div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
 <ul>
     <li><a href="{{ site.baseurl }}/page1.md">Page 1</a></li>
     <li><a href="{{ site.baseurl }}/page2.md">Page 2</a></li>
