@@ -24,7 +24,7 @@ I am a avid CTF Player and a cyber security enthusiast. I am currently a student
     <a href="page1.md">
         Write-up 1
         <figure class="image-container">
-            <img src="noodlekid.github.io/Images/how-it-works.png" alt="Image Description">
+            <img src="path/to/image" alt="Image Description">
         </figure>
     </a>
 </figure>
