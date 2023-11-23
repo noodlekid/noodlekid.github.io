@@ -21,7 +21,7 @@ I am a avid CTF Player and a cyber security enthusiast. I am currently a student
 
 <!-- Link Box 1 -->
 <figure class="link-box">
-    <a href="page1.md">
+    <a href="page1.html">
         Write-up 1
         <figure class="image-container">
             <img src="path/to/image" alt="Image Description">
@@ -29,7 +29,7 @@ I am a avid CTF Player and a cyber security enthusiast. I am currently a student
     </a>
 </figure>
 <div class="link-box">
-    <a href="page1.html">
+    <a href="nolink">
         Link to Page 1
         <div class="image-container">
             <img src="path/to/image.jpg" alt="Image Description">
