@@ -16,3 +16,9 @@ This is a collection of write-ups for CTF challenges that I have solved (and som
 ## About Me
 
 I am a avid CTF Player and a cyber security enthusiast. I am currently a student, and in my free time I like to mess around with pwning and reverse engineering.
+
+## Write Ups
+
+[Link to Page 1](page1.html)
+
+[Link to Page 2](page2.html)
