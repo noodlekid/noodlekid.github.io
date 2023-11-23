@@ -19,6 +19,14 @@ I am a avid CTF Player and a cyber security enthusiast. I am currently a student
 
 ## Write Ups
 
-[Link to Page 1](page1.html)
+<!-- Link Box 1 -->
+<div class="link-box">
+    <a href="page1.html">Link to Page 1</a>
+</div>
 
-[Link to Page 2](page2.html)
+<!-- Link Box 2 -->
+<div class="link-box">
+    <a href="page2.html">Link to Page 2</a>
+</div>
+
+<!-- Add more link boxes as needed -->
