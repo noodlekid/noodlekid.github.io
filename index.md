@@ -24,7 +24,7 @@ I am a avid CTF Player and a cyber security enthusiast. I am currently a student
     <a href="page1.html">
         Write-up 1
         <div class="image-container">
-            <img src="path/to/image.jpg" alt="Image Description">
+            <img src="C:\Users\Mateusz Tyc\Documents\GitHub\noodlekid.github.io\Images\how-it-works.png" alt="Image Description">
         </div>
     </a>
 <div class="link-box">
