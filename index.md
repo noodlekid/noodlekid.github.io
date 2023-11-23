@@ -27,6 +27,7 @@ I am a avid CTF Player and a cyber security enthusiast. I am currently a student
             <img src="C:\Users\Mateusz Tyc\Documents\GitHub\noodlekid.github.io\Images\how-it-works.png" alt="Image Description">
         </div>
     </a>
+</div>
 <div class="link-box">
     <a href="page1.html">
         Link to Page 1
